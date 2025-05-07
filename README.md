@@ -1,15 +1,8 @@
-Sure! Here's the **complete README content** formatted and ready for copy-paste into your `README.md` file:
 
-````markdown
 # Doctor's Appointment Management System
 
 Welcome to the **Doctor's Appointment Management System**! This is a comprehensive web application built using the MERN stack (MongoDB, Express.js, React.js, Node.js) for handling appointment scheduling, patient management, and doctor-patient interaction. The application allows users to book, manage, and track appointments, view prescriptions, and perform other essential healthcare management tasks.
 
----
-
-### 🚀 Demo
-
-Check out a live demo of the project here: [Demo Link](#)
 
 ---
 
